@@ -1,8 +1,8 @@
-# Xamarin bindings
+![](logo.png)
 
-A list of existing library bindings : simply check if a binding of your favorite library already exists from its github repo!
+A list of existing library bindings: simply check if a binding of your favorite library already exists from its github repo!
 
-Please **add your own bindings** to have the more exaustive list.
+Please **add your own bindings** to have the most exhaustive list.
 
 ## iOS
 
@@ -10,6 +10,9 @@ Please **add your own bindings** to have the more exaustive list.
 * **[lkzhao/Hero](https://github.com/lkzhao/Hero)** : [aloisdeniel/Xam.Hero](https://github.com/aloisdeniel/Xam.Hero)
 * **[marketplacer/Cosmos](https://github.com/marketplacer/Cosmos)** : [aloisdeniel/Xam.Cosmos](https://github.com/aloisdeniel/Xam.Cosmos)
 * **[airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)** : [martijn00/LottieXamarin](https://github.com/martijn00/LottieXamarin)
+* **[daltoniam/DCAnimationKit](https://github.com/daltoniam/DCAnimationKit)** : [markjackmilian/Xam.DCAnimationKit](https://github.com/markjackmilian/Xam.DCAnimationKit)
+* **[paypal/PayPal-iOS-SDK](https://github.com/paypal/PayPal-iOS-SDK)** : [markjackmilian/Xam.PayPal.iOS](https://github.com/markjackmilian/Xam.PayPal.iOS)
+
 
 
 ## Android
@@ -33,6 +36,13 @@ Please **add your own bindings** to have the more exaustive list.
 * **[txusballesteros/AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)** : [martijn00/AutoscaleEditTextXamarin](https://github.com/martijn00/AutoscaleEditTextXamarin)
 * **[kaelaela/VerticalViewPager](https://github.com/kaelaela/VerticalViewPager)** : [martijn00/VerticalViewPagerXamarin](https://github.com/martijn00/VerticalViewPagerXamarin)
 * **[umano/AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)** : [martijn00/AndroidSlidingUpPanelXamarin](https://github.com/martijn00/AndroidSlidingUpPanelXamarin)
+* **[IsseiAoki/SimpleCropView](https://github.com/IsseiAoki/SimpleCropView)** : [markjackmilian/Xam.Droid.SimpleCropView](https://github.com/markjackmilian/Xam.Droid.SimpleCropView)
+* **[paypal/PayPal-Android-SDK](https://github.com/paypal/PayPal-Android-SDK)** : [markjackmilian/Xam.PayPal.Droid](https://github.com/markjackmilian/Xam.PayPal.Droid)
+
+
+
+
+
 
 
 
