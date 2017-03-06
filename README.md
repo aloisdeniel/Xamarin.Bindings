@@ -53,6 +53,6 @@ If you wish to create your own binding library :
 * **[nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)** : [LukeForder/Xamarin-Bindings-Android-Universal-Image-Loader](https://github.com/LukeForder/Xamarin-Bindings-Android-Universal-Image-Loader)
 * **[square/picasso](https://github.com/square/picasso)** : [jacksierkstra/Picasso](https://github.com/jacksierkstra/Picasso)
 * **[ogaclejapan/ArcLayout](https://github.com/ogaclejapan/ArcLayout)** : [SuavePirate/ArcLayout](https://github.com/SuavePirate/ArcLayout)
-
+* **[florent37/ExpectAnim](https://github.com/florent37/ExpectAnim)** : [Julien-Mialon/ExpectAnimXamarin](https://github.com/Julien-Mialon/ExpectAnimXamarin)
 
 
