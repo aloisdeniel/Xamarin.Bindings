@@ -54,5 +54,7 @@ If you wish to create your own binding library :
 * **[square/picasso](https://github.com/square/picasso)** : [jacksierkstra/Picasso](https://github.com/jacksierkstra/Picasso)
 * **[ogaclejapan/ArcLayout](https://github.com/ogaclejapan/ArcLayout)** : [SuavePirate/ArcLayout](https://github.com/SuavePirate/ArcLayout)
 * **[florent37/ExpectAnim](https://github.com/florent37/ExpectAnim)** : [Julien-Mialon/ExpectAnimXamarin](https://github.com/Julien-Mialon/ExpectAnimXamarin)
+* **[ganfra/MaterialSpinner](https://github.com/ganfra/MaterialSpinner)** : [akamud/MaterialSpinner-Xamarin](https://github.com/akamud/MaterialSpinner-Xamarin)
+* **[grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)** : [akamud/AutoFitTextView-Xamarin.Android](https://github.com/akamud/AutoFitTextView-Xamarin.Android)
 
 
