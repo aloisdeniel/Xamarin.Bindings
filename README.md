@@ -26,6 +26,7 @@ If you wish to create your own binding library :
 * **[paypal/PayPal-iOS-SDK](https://github.com/paypal/PayPal-iOS-SDK)** : [markjackmilian/Xam.PayPal.iOS](https://github.com/markjackmilian/Xam.PayPal.iOS)
 * **[SVGKit/SVGKit](https://github.com/SVGKit/SVGKit)** : [jamesmundy/SVGKit.Xamarin](https://github.com/jamesmundy/SVGKit.Xamarin)
 * **[kevin0571/STPopup](https://github.com/kevin0571/STPopup)** : [erdennis13/Xamarin.STPopup](https://github.com/erdennis13/Xamarin.STPopup)
+* **[fleitz/ColorArt](https://github.com/fleitz/ColorArt)** : [blacknothing/ColorArt-Xamarin](https://github.com/blacknothing/ColorArt-Xamarin)
 
 ## Android
 
@@ -56,5 +57,3 @@ If you wish to create your own binding library :
 * **[florent37/ExpectAnim](https://github.com/florent37/ExpectAnim)** : [Julien-Mialon/ExpectAnimXamarin](https://github.com/Julien-Mialon/ExpectAnimXamarin)
 * **[ganfra/MaterialSpinner](https://github.com/ganfra/MaterialSpinner)** : [akamud/MaterialSpinner-Xamarin](https://github.com/akamud/MaterialSpinner-Xamarin)
 * **[grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)** : [akamud/AutoFitTextView-Xamarin.Android](https://github.com/akamud/AutoFitTextView-Xamarin.Android)
-
-
