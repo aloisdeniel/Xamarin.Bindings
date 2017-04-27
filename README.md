@@ -27,7 +27,7 @@ If you wish to create your own binding library :
 * **[SVGKit/SVGKit](https://github.com/SVGKit/SVGKit)** : [jamesmundy/SVGKit.Xamarin](https://github.com/jamesmundy/SVGKit.Xamarin)
 * **[kevin0571/STPopup](https://github.com/kevin0571/STPopup)** : [erdennis13/Xamarin.STPopup](https://github.com/erdennis13/Xamarin.STPopup)
 * **[fleitz/ColorArt](https://github.com/fleitz/ColorArt)** : [blacknothing/ColorArt-Xamarin](https://github.com/blacknothing/ColorArt-Xamarin)
-* **[CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout) : [RichDCs/Xam.CSStickyHeaderFlowLayout](https://github.com/RichDCs/Xam.CSStickyHeaderFlowLayout)
+* **[CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)** : [RichDCs/Xam.CSStickyHeaderFlowLayout](https://github.com/RichDCs/Xam.CSStickyHeaderFlowLayout)
 
 ## Android
 
