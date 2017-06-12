@@ -58,3 +58,4 @@ If you wish to create your own binding library :
 * **[florent37/ExpectAnim](https://github.com/florent37/ExpectAnim)** : [Julien-Mialon/ExpectAnimXamarin](https://github.com/Julien-Mialon/ExpectAnimXamarin)
 * **[ganfra/MaterialSpinner](https://github.com/ganfra/MaterialSpinner)** : [akamud/MaterialSpinner-Xamarin](https://github.com/akamud/MaterialSpinner-Xamarin)
 * **[grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)** : [akamud/AutoFitTextView-Xamarin.Android](https://github.com/akamud/AutoFitTextView-Xamarin.Android)
+* **[torryharris/Skycons](https://github.com/torryharris/Skycons)** : [andreasjacobsen93/Skycons-for-Xamarin.Android](https://github.com/andreasjacobsen93/Skycons-for-Xamarin.Android)
