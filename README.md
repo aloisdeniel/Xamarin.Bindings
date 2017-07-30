@@ -28,6 +28,8 @@ If you wish to create your own binding library :
 * **[kevin0571/STPopup](https://github.com/kevin0571/STPopup)** : [erdennis13/Xamarin.STPopup](https://github.com/erdennis13/Xamarin.STPopup)
 * **[fleitz/ColorArt](https://github.com/fleitz/ColorArt)** : [blacknothing/ColorArt-Xamarin](https://github.com/blacknothing/ColorArt-Xamarin)
 * **[CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)** : [RichDCs/Xam.CSStickyHeaderFlowLayout](https://github.com/RichDCs/Xam.CSStickyHeaderFlowLayout)
+* **[nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel)** : [jzeferino/Xamarin.iOS.iCarousel](https://github.com/jzeferino/Xamarin.iOS.iCarousel)
+* **[gontovnik/DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)** : [jzeferino/Xamarin.iOS.DGActivityIndicatorView](https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView)
 
 ## Android
 
@@ -59,3 +61,4 @@ If you wish to create your own binding library :
 * **[ganfra/MaterialSpinner](https://github.com/ganfra/MaterialSpinner)** : [akamud/MaterialSpinner-Xamarin](https://github.com/akamud/MaterialSpinner-Xamarin)
 * **[grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)** : [akamud/AutoFitTextView-Xamarin.Android](https://github.com/akamud/AutoFitTextView-Xamarin.Android)
 * **[torryharris/Skycons](https://github.com/torryharris/Skycons)** : [andreasjacobsen93/Skycons-for-Xamarin.Android](https://github.com/andreasjacobsen93/Skycons-for-Xamarin.Android)
+* **[81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)** : [jzeferino/Xamarin.Android.AVLoadingIndicatorView](https://github.com/jzeferino/Xamarin.Android.AVLoadingIndicatorView)
