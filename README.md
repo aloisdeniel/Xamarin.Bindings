@@ -30,6 +30,7 @@ If you wish to create your own binding library :
 * **[CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)** : [RichDCs/Xam.CSStickyHeaderFlowLayout](https://github.com/RichDCs/Xam.CSStickyHeaderFlowLayout)
 * **[nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel)** : [jzeferino/Xamarin.iOS.iCarousel](https://github.com/jzeferino/Xamarin.iOS.iCarousel)
 * **[gontovnik/DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)** : [jzeferino/Xamarin.iOS.DGActivityIndicatorView](https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView)
+* **[iOS LinkedIn SDK](https://developer.linkedin.com/docs/ios-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
 
 ## Android
 
@@ -62,3 +63,4 @@ If you wish to create your own binding library :
 * **[grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)** : [akamud/AutoFitTextView-Xamarin.Android](https://github.com/akamud/AutoFitTextView-Xamarin.Android)
 * **[torryharris/Skycons](https://github.com/torryharris/Skycons)** : [andreasjacobsen93/Skycons-for-Xamarin.Android](https://github.com/andreasjacobsen93/Skycons-for-Xamarin.Android)
 * **[81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)** : [jzeferino/Xamarin.Android.AVLoadingIndicatorView](https://github.com/jzeferino/Xamarin.Android.AVLoadingIndicatorView)
+* **[Android LinkedIn SDK](https://developer.linkedin.com/docs/android-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
