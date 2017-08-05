@@ -62,3 +62,4 @@ If you wish to create your own binding library :
 * **[grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)** : [akamud/AutoFitTextView-Xamarin.Android](https://github.com/akamud/AutoFitTextView-Xamarin.Android)
 * **[torryharris/Skycons](https://github.com/torryharris/Skycons)** : [andreasjacobsen93/Skycons-for-Xamarin.Android](https://github.com/andreasjacobsen93/Skycons-for-Xamarin.Android)
 * **[81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)** : [jzeferino/Xamarin.Android.AVLoadingIndicatorView](https://github.com/jzeferino/Xamarin.Android.AVLoadingIndicatorView)
+* **[kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)** : [jzeferino/Xamarin.Android.SwitchButton](https://github.com/jzeferino/Xamarin.Android.SwitchButton)
