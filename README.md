@@ -64,3 +64,4 @@ If you wish to create your own binding library :
 * **[torryharris/Skycons](https://github.com/torryharris/Skycons)** : [andreasjacobsen93/Skycons-for-Xamarin.Android](https://github.com/andreasjacobsen93/Skycons-for-Xamarin.Android)
 * **[81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)** : [jzeferino/Xamarin.Android.AVLoadingIndicatorView](https://github.com/jzeferino/Xamarin.Android.AVLoadingIndicatorView)
 * **[Android LinkedIn SDK](https://developer.linkedin.com/docs/android-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
+**[kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)** : [jzeferino/Xamarin.Android.SwitchButton](https://github.com/jzeferino/Xamarin.Android.SwitchButton)
