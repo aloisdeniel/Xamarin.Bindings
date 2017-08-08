@@ -1,4 +1,7 @@
 ![](logo.png)
+<p align="center">
+<img src="https://github.com/aloisdeniel/Xamarin.Bindings/blob/master/logo.png"/>
+</p>
 
 A list of existing library bindings: simply check if a binding of your favorite library already exists from its github repo!
 
