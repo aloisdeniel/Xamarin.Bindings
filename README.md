@@ -1,4 +1,3 @@
-![](logo.png)
 <p align="center">
 <img src="https://github.com/aloisdeniel/Xamarin.Bindings/blob/master/logo.png"/>
 </p>
