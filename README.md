@@ -33,6 +33,7 @@ If you wish to create your own binding library :
 * **[nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel)** : [jzeferino/Xamarin.iOS.iCarousel](https://github.com/jzeferino/Xamarin.iOS.iCarousel)
 * **[gontovnik/DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)** : [jzeferino/Xamarin.iOS.DGActivityIndicatorView](https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView)
 * **[iOS LinkedIn SDK](https://developer.linkedin.com/docs/ios-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
+* **[shinydevelopment/SimulatorStatusMagic](https://github.com/shinydevelopment/SimulatorStatusMagic)** : [Sankra/SimulatorStatusMagicXamarinBindings](https://github.com/Sankra/SimulatorStatusMagicXamarinBindings)
 
 ## Android
 
