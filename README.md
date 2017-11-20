@@ -34,6 +34,8 @@ If you wish to create your own binding library :
 * **[gontovnik/DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)** : [jzeferino/Xamarin.iOS.DGActivityIndicatorView](https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView)
 * **[iOS LinkedIn SDK](https://developer.linkedin.com/docs/ios-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
 * **[shinydevelopment/SimulatorStatusMagic](https://github.com/shinydevelopment/SimulatorStatusMagic)** : [Sankra/SimulatorStatusMagicXamarinBindings](https://github.com/Sankra/SimulatorStatusMagicXamarinBindings)
+* **[Yalantis/Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS)** : [Xamarin.ContextSlideMenu](https://components.xamarin.com/view/contextmenu)
+
 
 ## Android
 
@@ -69,3 +71,5 @@ If you wish to create your own binding library :
 * **[Android LinkedIn SDK](https://developer.linkedin.com/docs/android-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
 * **[kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)** : [jzeferino/Xamarin.Android.SwitchButton](https://github.com/jzeferino/Xamarin.Android.SwitchButton)
 * **[tomergoldst/tooltips](https://github.com/tomergoldst/tooltips)** : [jzeferino/Xamarin.Android.Tooltips](https://github.com/jzeferino/Xamarin.Android.Tooltips)
+* **[Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android)** : [Xamarin.ContextSlideMenu](https://components.xamarin.com/view/contextmenu)
+* **[Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android)** : [Xamarin.SideMenu](https://components.xamarin.com/view/sidemenu)
