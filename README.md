@@ -69,3 +69,5 @@ If you wish to create your own binding library :
 * **[Android LinkedIn SDK](https://developer.linkedin.com/docs/android-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
 * **[kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)** : [jzeferino/Xamarin.Android.SwitchButton](https://github.com/jzeferino/Xamarin.Android.SwitchButton)
 * **[tomergoldst/tooltips](https://github.com/tomergoldst/tooltips)** : [jzeferino/Xamarin.Android.Tooltips](https://github.com/jzeferino/Xamarin.Android.Tooltips)
+* **[alexvasilkov/GestureViews](https://github.com/alexvasilkov/GestureViews)** : [msioen/GestureViews.Binding](https://github.com/msioen/GestureViews.Binding)
+* **[opacapp/multiline-collapsingtoolbar](https://github.com/opacapp/multiline-collapsingtoolbar)** : [msioen/MultiLineCollapsingToolbar.Binding](https://github.com/msioen/MultiLineCollapsingToolbar.Binding)
