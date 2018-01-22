@@ -69,3 +69,4 @@ If you wish to create your own binding library :
 * **[Android LinkedIn SDK](https://developer.linkedin.com/docs/android-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
 * **[kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)** : [jzeferino/Xamarin.Android.SwitchButton](https://github.com/jzeferino/Xamarin.Android.SwitchButton)
 * **[tomergoldst/tooltips](https://github.com/tomergoldst/tooltips)** : [jzeferino/Xamarin.Android.Tooltips](https://github.com/jzeferino/Xamarin.Android.Tooltips)
+* **[Deezer Android SDK](https://developers.deezer.com/sdk/android)** : [CodeMyst/DeezerXamarinAndroid](https://github.com/CodeMyst/DeezerXamarinAndroid)
