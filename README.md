@@ -34,6 +34,7 @@ If you wish to create your own binding library :
 * **[gontovnik/DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView)** : [jzeferino/Xamarin.iOS.DGActivityIndicatorView](https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView)
 * **[iOS LinkedIn SDK](https://developer.linkedin.com/docs/ios-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
 * **[shinydevelopment/SimulatorStatusMagic](https://github.com/shinydevelopment/SimulatorStatusMagic)** : [Sankra/SimulatorStatusMagicXamarinBindings](https://github.com/Sankra/SimulatorStatusMagicXamarinBindings)
+* **[mixpanel/mixpanel-iphone](https://github.com/mixpanel/mixpanel-iphone)** : [beeradmoore/Xam.Plugin.Mixpanel.iOS](https://github.com/beeradmoore/Xam.Plugin.Mixpanel.iOS)
 
 ## Android
 
@@ -69,3 +70,5 @@ If you wish to create your own binding library :
 * **[Android LinkedIn SDK](https://developer.linkedin.com/docs/android-sdk)** : [jzeferino/Xamarin.LinkedIn](https://github.com/jzeferino/Xamarin.LinkedIn)
 * **[kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)** : [jzeferino/Xamarin.Android.SwitchButton](https://github.com/jzeferino/Xamarin.Android.SwitchButton)
 * **[tomergoldst/tooltips](https://github.com/tomergoldst/tooltips)** : [jzeferino/Xamarin.Android.Tooltips](https://github.com/jzeferino/Xamarin.Android.Tooltips)
+* **[mixpanel/mixpanel-android](https://github.com/mixpanel/mixpanel-android)** : [beeradmoore/Xam.Plugin.Mixpanel.Android](https://github.com/beeradmoore/Xam.Plugin.Mixpanel.Android)
+* **[linkedin/LiTr](https://github.com/linkedin/LiTr)** : [beeradmoore/Xam.Plugin.LinkedIn.LiTr](https://github.com/beeradmoore/Xam.Plugin.LinkedIn.LiTr)
